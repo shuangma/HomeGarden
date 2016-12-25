@@ -6,7 +6,13 @@ HomeGarden Sprinkler System is developed in Java language based on OO(Object Ori
 # Functionality
 HomeGarden Sprinkler System provides functionalities including:
 
-* Display all the sprinkler status on the map
+* Display a map of garden layout, the location and the status of all sprinklers.
+* Show each sprinkler detail status in a table, and the waterflux can be adjusted easily
+* Activate and deactivate sprinkler individually or in group. 
+* Present sprinkler monthly water usage in bar graph, and the water usage trending is also available
+* Activate and deactivate the sprinklers automatcially according to the weekly plan which you can add, update and delete.
+* Monitor the sprinklers by temperature sensors with higher and lower bounds. Sprinklers are automatically activated when the temperature is above the higher bounds and deactivated when the temperature is under the lower bounds.
+* Provide temperature and date simulation to quickly set current temperature and date
 
 	
 # How to use
